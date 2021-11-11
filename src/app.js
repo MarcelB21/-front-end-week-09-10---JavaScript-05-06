@@ -1,7 +1,7 @@
+import axios from "axios"
+//Stap 1. Installeer en importeer Axios;
 console.log('Hallo daar!');
 
-//Stap 1. Installeer en importeer Axios;
-import axios from 'axios'
 // Stap 3. Schrijf een asynchrone functie die, met behulp van Axios, een GET-request maakt naar het juiste endpoint. Log de response in de console en bestudeer de data goed.
 async function getCountries(){
     const countryList = document.getElementById("country-list");
