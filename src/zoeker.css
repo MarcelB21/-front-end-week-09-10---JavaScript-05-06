@@ -1,0 +1,27 @@
+.flag {
+    width: 500px;
+}
+
+#searchField {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#country-info1 {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#errorMessage {
+    text-align: center;
+    background-color: aliceblue;
+    font-size: large;
+    font-weight: bold;
+}
+
+.image {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
